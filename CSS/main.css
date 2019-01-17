@@ -1,0 +1,52 @@
+
+/* 1 - TAG selector */
+h1{
+    background-color: purple;
+    font-size: 40px;
+    color: white; 
+    text-align: center;
+}
+body{
+    background-color: #978c8c;
+}
+
+p, {
+    color: darkslategray
+    font-weight: bold;
+}
+/* 2- ID Selector */
+
+#manufacturerNote{
+    font-weight: bold; 
+}
+#txtUser,#txtPass {
+    font-size: 14px;
+    color: darkblue;
+}
+/* 3 - Class Selector */
+
+.successBtn {
+color: #403e6d;
+font-weight: 30px;
+border: 1px, black;    
+}
+
+.newUser {
+    color:  green;
+    font-weight: 30px;
+    border: 1px, black;
+
+}
+/*can target list elements*/
+}
+.container {
+    padding: 20px;
+    border: 1px solid #0000ff
+}
+.container button { 
+    font-size: 16px;
+    font-weight: bold;
+    color: #0000ff;
+    padding: 5px 30px 5px 30px;
+    
+}
